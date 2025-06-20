@@ -1517,7 +1517,6 @@
       }
     ]
   },
-[
   {
     "id": 86,
     "brand": "Aiways",
@@ -1569,7 +1568,6 @@
       }
     ]
   },
-[
   {
     "id": 89,
     "brand": "AK",
@@ -1621,7 +1619,6 @@
       }
     ]
   },
-[
   {
     "id": 92,
     "brand": "Alfa Romeo",
@@ -2519,7 +2516,6 @@
       }
     ]
   },
-[
   {
     "id": 149,
     "brand": "Alvis",
@@ -3012,9 +3008,7 @@
         "transmissions": ["Automatic"]
       }
     ]
-  }
-],
-[
+  },
   {
     "id": 178,
     "brand": "Aro",
@@ -3405,9 +3399,7 @@
         "transmissions": ["Manual"]
       }
     ]
-  }
-],
-[
+  },
   {
     "id": 201,
     "brand": "Artega",
@@ -3502,9 +3494,7 @@
     "body_styles": [],
     "fuel_types": [],
     "engines": []
-  }
-],
-[
+  },
   {
     "id": 207,
     "brand": "Asia Motors",
@@ -3770,9 +3760,7 @@
         "transmissions": ["Manual"]
       }
     ]
-  }
-],
-[
+  },
   {
     "id": 222,
     "brand": "Aston Martin",
@@ -4522,4 +4510,4 @@
       }
     ]
   }
-],
+]
